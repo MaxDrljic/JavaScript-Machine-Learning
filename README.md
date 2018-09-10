@@ -1,2 +1,3 @@
-"# JavaScript-Machine-Learning"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/MaxDrljic/JavaScript-Machine-Learning.git git push -u origin master
-"# JavaScript-Machine-Learning" 
+# JavaScript-Machine-Learning
+
+Simple machine learning with brain.js. Contains basic setup and examples to test a neural network.
